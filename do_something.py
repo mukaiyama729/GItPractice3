@@ -4,3 +4,6 @@ def do_something():
 
 def fname():
     pass
+
+def lname():
+    pass
