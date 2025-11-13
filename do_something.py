@@ -7,3 +7,6 @@ def fname():
 
 def lname():
     pass
+
+def full_name():
+    pass
